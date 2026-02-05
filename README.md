@@ -1,4 +1,5 @@
 📊 Sistema de Inteligência de Marketing - PereiraOutlet (RFV)
+
 Este projeto consiste em um ecossistema de dados completo para análise de comportamento de clientes utilizando a metodologia RFV (Recência, Frequência e Valor). O sistema integra um banco de dados SQL Server com automação em Python para gerar dashboards executivos interativos.
 
 🚀 Tecnologias Utilizadas
@@ -51,7 +52,7 @@ O sistema gera automaticamente um arquivo dashboard_pereira_outlet.html com visu
 Dica: Insira aqui o print do seu Dashboard no navegador para mostrar o resultado final!
 
 👤 Autor
-Christian Luiz LinkedIn: [Seu Link Aqui] Portfólio: [Seu Link Aqui]
+Christian Luiz LinkedIn: [https://www.linkedin.com/in/christian-luiz-36056b155/] 
 
 Dica de ouro para o seu GitHub:
 Crie um arquivo requirements.txt: Digite pip freeze > requirements.txt no terminal para que outros possam instalar as bibliotecas que você usou com um único comando.
